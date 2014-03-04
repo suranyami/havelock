@@ -1,5 +1,7 @@
+require "bundler/setup"
+
 require "havelock/version"
+require "havelock/client"
 
 module Havelock
-  # Your code goes here...
 end
